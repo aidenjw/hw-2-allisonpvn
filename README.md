@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/y12QcJaO)
 # HW 2: From Notebooks to Research Packages
 
+https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-allisonpvn/main?urlpath=%2Fdoc%2Ftree%2FLOSC_Event_tutorial.ipynb
+
 In this homework I took the LIGO tutorial notebook and make it a reproducible research package using conda and binder.
 
 
